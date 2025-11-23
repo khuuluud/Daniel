@@ -27,7 +27,7 @@
       "assets/imgs/"
     ]
   },
-  "screenshots": [],
+  "screenshots": ["assets/imgs/screenshot.png"],
   "settings": {},
   "pages": {
     "home": {
