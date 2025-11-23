@@ -1,0 +1,39 @@
+{
+  "id": "daniels-portfolio-theme",
+  "name": "Daniels Portfolio Theme",
+  "version": "1.0.0",
+  "description": "A clean portfolio theme built with HTML, CSS, and JS, converted for Salla themes.",
+  "author": {
+    "name": "Your Name",
+    "email": "your@email.com"
+  },
+  "layouts": {
+    "default": {
+      "label": "Default Layout",
+      "path": "views/index.html"
+    }
+  },
+  "assets": {
+    "css": [
+      "assets/css/all.min.css",
+      "assets/css/bootstrap.min.css",
+      "assets/css/Daniels.css"
+    ],
+    "js": [
+      "assets/js/bootstrap.bundle.min.js",
+      "assets/js/typed.umd.js"
+    ],
+    "images": [
+      "assets/imgs/"
+    ]
+  },
+  "screenshots": [],
+  "settings": {},
+  "pages": {
+    "home": {
+      "label": "Home Page",
+      "path": "views/index.html",
+      "layout": "default"
+    }
+  }
+}
